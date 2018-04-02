@@ -1,0 +1,41 @@
+Stückliste exportiert aus /home/stone/eagle/Netzteil/netzteil.sch am 02.04.18 02:46
+
+Qty Value           Device            Package         Parts                          Description                          
+1                   -NPN-TO220        TO220           T1                             NPN Transistror                      
+1                   LED3MM            LED3MM          LED1                           LED                                  
+1                   ZENER-DIODEDO34-7 DO34Z7          D6                             Z-Diode                              
+2   100n            C-EU025-025X050   C025-025X050    C8, C9                         CAPACITOR, European symbol           
+3   100p            C-EU025-025X050   C025-025X050    C3, C7, C10                    CAPACITOR, European symbol           
+1   100uF           CPOL-EUE3.5-8     E3,5-8          C1                             POLARIZED CAPACITOR, European symbol 
+1   10R/1W          R-EU_0411/12      0411/12         R16                            RESISTOR, European symbol            
+1   10k             R-EU_0207/2V      0207/2V         R5                             RESISTOR, European symbol            
+2   10k             R-TRIMM3296Y      RTRIM3296Y      R25, R26                       Trimm resistor                       
+1   10u             CPOL-EUE3.5-8     E3,5-8          C2                             POLARIZED CAPACITOR, European symbol 
+1   15k             R-EU_0207/2V      0207/2V         R8                             RESISTOR, European symbol            
+2   1N4004          1N4004            DO41-10         D1, D7                         DIODE                                
+4   1N4148DO35-7    1N4148DO35-7      DO35-7          D2, D3, D4, D5                 DIODE                                
+1   1k              MKDSN1,5/3-5,08   MKDSN1,5/3-5,08 X5                             MKDSN 1,5/ 3-5,08 Printklemme        
+1   1k              R-EU_0207/2V      0207/2V         R6                             RESISTOR, European symbol            
+1   1n              C-EU025-025X050   C025-025X050    C6                             CAPACITOR, European symbol           
+1   22R             R-EU_0207/2V      0207/2V         R3                             RESISTOR, European symbol            
+3   2N3055          MKDSN1,5/3-5,08   MKDSN1,5/3-5,08 X8, X9, X10                    MKDSN 1,5/ 3-5,08 Printklemme        
+1   2k2             R-EU_0207/7       0207/7          R15                            RESISTOR, European symbol            
+1   470R/1W         R-EU_0207/2V      0207/2V         R21                            RESISTOR, European symbol            
+1   470k            R-EU_0207/2V      0207/2V         R24                            RESISTOR, European symbol            
+2   47R             R-EU_0207/2V      0207/2V         R22, R23                       RESISTOR, European symbol            
+1   47u             CPOL-EUE3.5-8     E3,5-8          C16                            POLARIZED CAPACITOR, European symbol 
+7   4k7             R-EU_0207/2V      0207/2V         R1, R2, R7, R10, R11, R14, R20 RESISTOR, European symbol            
+1   4k7/1W          R-EU_0411/12      0411/12         R12                            RESISTOR, European symbol            
+1   50k             MKDSN1,5/3-5,08   MKDSN1,5/3-5,08 X4                             MKDSN 1,5/ 3-5,08 Printklemme        
+1   820n            C-EU025-025X050   C025-025X050    C11                            CAPACITOR, European symbol           
+1   BC559A          BC559A            TO92-EBC        Q1                             PNP Transistror                      
+1   LM723N          LM723N            DIL14           IC1                            Positive VOLTAGE REGULATOR           
+2   MKDSN1,5/2-5,08 MKDSN1,5/2-5,08   MKDSN1,5/2-5,08 X2, X3                         MKDSN 1,5/ 2-5,08 Printklemme        
+2   MKDSN1,5/3-5,08 MKDSN1,5/3-5,08   MKDSN1,5/3-5,08 X1, X11                        MKDSN 1,5/ 3-5,08 Printklemme        
+1   POWER_KO        MKDSN1,5/2-5,08   MKDSN1,5/2-5,08 X12                            MKDSN 1,5/ 2-5,08 Printklemme        
+4   R22/3W          R-EU_0411/12      0411/12         R13, R17, R18, R19             RESISTOR, European symbol            
+1   STROMMESSUNG    MKDSN1,5/2-5,08   MKDSN1,5/2-5,08 X7                             MKDSN 1,5/ 2-5,08 Printklemme        
+1   TL072P          TL072P            DIL08           IC2                            OP AMP                               
+1   V+              MKDSN1,5/2-5,08   MKDSN1,5/2-5,08 X13                            MKDSN 1,5/ 2-5,08 Printklemme        
+1   V-              MKDSN1,5/2-5,08   MKDSN1,5/2-5,08 X14                            MKDSN 1,5/ 2-5,08 Printklemme        
+2   __              R-EU_0207/2V      0207/2V         R4, R9                         RESISTOR, European symbol            
