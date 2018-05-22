@@ -7,7 +7,9 @@ It uses a ua723 voltage regulator chip for voltage reference and two ua741 for v
 Furthermore, it is designed to either screw TO-220 transistors on the pcb to a heatsink or clamp on a completely seperate "power-transistor pack"
 There can be a NTC thermistor screwed into the heatsink, which is used for fan control and overtemperature protection
 
-first prototyping is done, schematic is done
-PCB with adaptions will follow!
+prototyping is done, schematic is done, pre-final Layout is done
 
-complete partlist and 3d print housing will follow!
+Housing for first prototype started
+
+PCB with correct silkscreen will follow!
+complete partlist and 3d print housing for final version will follow!
