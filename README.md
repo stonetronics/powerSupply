@@ -14,3 +14,5 @@ Housing for first prototype almost done, only carrying handle and fan grids miss
 PCB with correct silkscreen will follow!
 Wiring Diagram will follow!
 complete partlist and 3d print housing for final version will follow!
+
+!!!!!!Moved Mechanical to thingiverse
