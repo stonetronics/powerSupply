@@ -7,12 +7,5 @@ It uses a ua723 voltage regulator chip for voltage reference and two ua741 for v
 Furthermore, it is designed to either screw TO-220 transistors on the pcb to a heatsink or clamp on a completely seperate "power-transistor pack"
 There can be a NTC thermistor screwed into the heatsink, which is used for fan control and overtemperature protection, which is handled by a tl084
 
-prototyping is done, schematic is done, pre-final Layout is done
+!!Moved Mechanical to thingiverse
 
-Housing for first prototype almost done, only carrying handle and fan grids missing!
-
-PCB with correct silkscreen will follow!
-Wiring Diagram will follow!
-complete partlist and 3d print housing for final version will follow!
-
-!!!!!!Moved Mechanical to thingiverse
